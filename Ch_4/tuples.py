@@ -29,3 +29,10 @@ print("\nModified tuple:")
 dimensions = (99, 77)
 for dimension in dimensions:
     print(dimension)
+
+
+# LONG CODE TEST
+
+superlist = ['test1', 'test2', 'test3', 'test4', 'test5', 'test6', 'test7', \
+    'test8']
+print(superlist)
