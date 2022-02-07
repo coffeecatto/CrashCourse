@@ -4,6 +4,8 @@
 
 numbers = range(1,10)
 
+# Print the list with correct ordinal endings (st, nd, rd, th)
+
 for number in numbers:
     if number == 1:
         print(f"{number}st")
