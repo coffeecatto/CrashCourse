@@ -15,9 +15,7 @@ if user_list == []:
     print("We need to find some users!")
 elif user_list != []:
     for user in user_list:
-        if user_list == []:
-            print("We need to find some users!")
-        elif user == 'admin':
+        if user == 'admin':
             print("Welcome to your site, dear administartor!")
         else:
             print(f"Hi {user.title()}! You have been successfully logged in.")
@@ -31,9 +29,7 @@ if user_list == []:
     print("We need to find some users!")
 elif user_list != []:
     for user in user_list:
-        if user_list == []:
-            print("We need to find some users!")
-        elif user == 'admin':
+        if user == 'admin':
             print("Welcome to your site, dear administartor!")
         else:
             print(f"Hi {user.title()}! You have been successfully logged in.")
