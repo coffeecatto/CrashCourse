@@ -21,3 +21,7 @@ for username in new_users:
         print(f"Sorry, username '{username}' is already taken. Choose another!")
     elif username.lower() not in current_users_namecheck:
         print(f"Username '{username}' is available!")
+
+# NOTE TO SELF:
+# Programming when I should be sleeping IS A BAD IDEA. 
+# I'm prone to making really stupid mistakes in this state :(

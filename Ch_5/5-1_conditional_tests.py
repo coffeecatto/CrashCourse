@@ -11,6 +11,8 @@ print(cocaine == 'safe')
 print("Is cocaine == unsafe? I predict NOT")
 print(cocaine != 'safe')
 
+# 10 Booleans (5 True, 5 False)
+
 python_is_nice = True
 vscode_is_nice = True
 coffee_is_great = True

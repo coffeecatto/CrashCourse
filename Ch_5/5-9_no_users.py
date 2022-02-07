@@ -8,7 +8,7 @@ user_list = ['admin', 'rose', 'john', 'andrew', 'mike', 'rebecca', 'george']
 
 # Code with greetings message - special for admin, normal for everyone else
 # Print for every user
-
+# Outcome when user_list has any contents
 print("User list not empty:")
 
 if user_list == []:
@@ -22,7 +22,7 @@ elif user_list != []:
         else:
             print(f"Hi {user.title()}! You have been successfully logged in.")
 
-
+# Outcome when user_list is empty
 print("\nUser list empty:")
 
 user_list = []
