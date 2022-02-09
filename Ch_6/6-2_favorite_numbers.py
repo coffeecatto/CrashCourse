@@ -15,4 +15,5 @@ for person in fav_numbers:
     print(f"{person.title()}'s favorite number is {fav_numbers[person]}!")
 
 # So 'person' in the loop gets assigned a value from the dictionary, and then
-# I can use the square brackets to get the value assigned to that key. Nice!
+# I can use the square brackets to read the value assigned to that key. 
+# Nice!
