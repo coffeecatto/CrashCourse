@@ -103,7 +103,7 @@ my_little_car.battery.get_range()
 my_little_car.battery.upgrade_battery()
 
 # Check error handling when battery capacity is set to unexpected value
-print("\nERROR HANDLING TEST\n")
+print("\nERROR HANDLING TEST:\n")
 my_little_car.battery.battery_size = 250
 
 my_little_car.battery.describe_battery()
