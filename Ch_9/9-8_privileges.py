@@ -54,7 +54,7 @@ class Admin(User):
     """User with special administrative privileges (doh)."""
 
     def __init__(self, first_name, last_name, age, gender, occupation, 
-                 login_attempts, *privileges):
+                 login_attempts):
         """Inheriting attributes from parent class."""
         super().__init__(first_name, last_name, age, gender, occupation, 
                          login_attempts)
