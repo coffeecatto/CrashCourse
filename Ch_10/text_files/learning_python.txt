@@ -1,0 +1,6 @@
+In Python you can create dictionaries and lists.
+In Python you can make various loops.
+In Python you can make a lot of comments.
+In Python you cannot make drinks.
+In Python you cannot snort cocaine.
+In Python you cannot do something else that I completely do not recall at this very moment.
