@@ -1,0 +1,3 @@
+123 ASD !@# textfile write test!	Tab test!
+New line test!
+Hello world! Or something!
